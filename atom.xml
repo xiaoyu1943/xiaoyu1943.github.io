@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoyu1943.github.io</id>
     <title>小鱼</title>
-    <updated>2019-10-11T15:51:56.626Z</updated>
+    <updated>2019-10-11T15:55:09.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoyu1943.github.io"/>
     <link rel="self" href="https://xiaoyu1943.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://xiaoyu1943.github.io/post/wo-de-di-yi-ci-bo-ke-zhi-lu">
         </link>
         <updated>2019-10-11T15:36:53.000Z</updated>
-        <content type="html"><![CDATA[<p>这是我的第一次写作。</p>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>🤗这是我的第一次写作，很高兴开启博客之旅🤣🤣🤣</p>
 ]]></content>
     </entry>
 </feed>
